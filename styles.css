@@ -2,3 +2,8 @@ h1 {
     color: greenyellow;
     text-align: center;
 }
+
+.center {
+    margin: auto;
+    display: block; 
+}
