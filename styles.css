@@ -7,3 +7,21 @@ h1 {
     margin: auto;
     display: block; 
 }
+
+ul {
+    font-size: 22px;
+    color: green;
+}
+
+a:visited {
+    color: green; 
+}
+
+a:hover {
+    color: hotpink;
+}
+
+.description {
+    background-color: red;
+    color: white; 
+}
